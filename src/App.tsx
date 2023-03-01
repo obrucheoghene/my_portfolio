@@ -1,7 +1,7 @@
 import { useState } from 'react';
 
 function App() {
-  return <div className=" bg-[#201F1F] h-full text-3xl"> o</div>;
+  return <h1 className="text-3xl font-bold underline">Hello world!</h1>;
 }
 
 export default App;
