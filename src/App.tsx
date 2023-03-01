@@ -14,6 +14,20 @@ const App = () => {
           </div>
         </div>
         {/* Hero */}
+        <div className=" container py-12">
+          <p>Hey I'm</p>
+          <h1 className=" text-3xl my-10">Obruche Wilfred</h1>
+          <p className=" my-4">
+            An experienced web developer with more than four years of practice
+            in developing dynamic, scalable, and high-performance web
+            applications. Possesses strong skills in Javascript, PHP, Node.js,
+            React.js, Git, SQL (MySQL), NoSQL (Mongodb), CSS, Tailwind, and
+            Bootstrap CSS. A performer, capable of delivering high-quality and
+            reusable code. Excited to tackle more intricate problems and
+            continuously explore innovative ways to enhance users experience.
+          </p>
+          <p>Say hi --- </p>
+        </div>
       </div>
     </div>
   );
