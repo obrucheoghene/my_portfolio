@@ -1,3 +1,23 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.primary-gd {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 96px;
+  line-height: 110px;
+
+  /* identical to box height */
+
+  background: linear-gradient(
+    89.81deg,
+    #9845e8 -1.72%,
+    #33d2ff 54.05%,
+    #dd5789 99.78%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
